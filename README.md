@@ -66,6 +66,13 @@ Install dependencies
 npm install 
 ```
 
+```bash
+npm install express mongoose
+```
+
+```bash
+npm install nodemon
+```
 Install additional frontend dependencies
 
 ```bash
